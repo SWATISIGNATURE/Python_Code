@@ -143,6 +143,21 @@ class LinkedList:
                     curr_node.next = curr_node.next.next
                 curr_node = curr_node.next
 
+    # Reverse a linked list iteratively
+    def reverse_list(self):
+        if self.head is None:
+            return
+        else:
+            curr_node = self.head
+            prev_node = None
+            while curr_node:
+                temp_next = curr_node.next
+                curr_node.next=prev_node
+                prev_node = curr_node
+                curr_node = temp_next
+        self.head = prev_node
+
+
 
 ll = LinkedList()
 ll.insert_at_begin(10)
@@ -168,4 +183,6 @@ ll.print_list()
 ll.insert_after_value(40,32)
 ll.print_list()
 ll.remove_by_value(30)
+ll.print_list()
+ll.reverse_list()
 ll.print_list()
