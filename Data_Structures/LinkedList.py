@@ -157,6 +157,19 @@ class LinkedList:
                 curr_node = temp_next
         self.head = prev_node
 
+    def search(self,val):
+        if self.head is None:
+            return
+        else:
+            curr_node = self.head
+            count = 0
+            while curr_node:
+                if curr_node.val == val:
+                    print(str(val)+" is found at index "+ str(count))
+                    return
+                curr_node = curr_node.next
+                count += 1
+
 
 
 ll = LinkedList()
@@ -186,3 +199,4 @@ ll.remove_by_value(30)
 ll.print_list()
 ll.reverse_list()
 ll.print_list()
+ll.search(40)
