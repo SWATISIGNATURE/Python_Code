@@ -44,8 +44,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Heap">
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Maximum Sum Sublist">
+    <configuration name="215. Kth Largest Element in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_GIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Structures/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/LeetCode/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Structures/Tree/BinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/LeetCode/Medium/215. Kth Largest Element in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,27 +87,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_GIT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Structures/Heap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="LinkedList" type="PythonConfigurationType" factoryName="Python">
       <module name="Python_GIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maximum Sum Sublist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_GIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays/Maximum Sum Sublist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codingbat_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Rearrange Positive &amp; Negative Values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_GIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/CodingBat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/CodingBat/codingbat_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays/Rearrange Positive &amp; Negative Values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Rearrange Sorted List in Max_Min Form" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_GIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +158,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/W3_resources" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/W3_resources/python_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays/Rearrange Sorted List in Max_Min Form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Right Rotate List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_GIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Practice/Educative.io/Lists_Arrays/Right Rotate List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Heap" />
-        <item itemvalue="Python.python_strings" />
-        <item itemvalue="Python.codingbat_python" />
-        <item itemvalue="Python.BinaryTree" />
-        <item itemvalue="Python.Recursion" />
+        <item itemvalue="Python.Maximum Sum Sublist" />
+        <item itemvalue="Python.Rearrange Sorted List in Max_Min Form" />
+        <item itemvalue="Python.Rearrange Positive &amp; Negative Values" />
+        <item itemvalue="Python.Right Rotate List" />
+        <item itemvalue="Python.215. Kth Largest Element in an Array" />
       </list>
     </recent_temporary>
   </component>
